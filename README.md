@@ -1,2 +1,4 @@
 # stunning-computing-machine
-Repository laget på GitHub for dummies talk på fagtorsdag NAV
+Repository laget på GitHub for dummies talk på fagtorsdag NAV.
+
+Legger til litt tekst for å teste.
